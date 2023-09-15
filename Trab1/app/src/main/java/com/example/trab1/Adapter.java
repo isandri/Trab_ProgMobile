@@ -40,7 +40,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
     public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
         Musics musics = musicsArrayList.get(position);
         holder.nomeMusica.setText(musics.nome);
-        holder.capaMusica.setImageResource(musics.capaMusica);
+        holder.animalCapa.setImageResource(musics.animalCapa);
         holder.tempo.setText(musics.tempo);
     }
 
@@ -51,12 +51,12 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
 
     public static class MyViewHolder extends RecyclerView.ViewHolder{
 
-        ImageView capaMusica;
+        ImageView animalCapa;
         TextView nomeMusica, tempo;
         public MyViewHolder(@NonNull View itemView, RecyclerViewInterface recyclerViewInterface) {
             super(itemView);
-            capaMusica = itemView.findViewById(R.id.capaMusica);
-            nomeMusica = itemView.findViewById(R.id.nomeMusica);
+            animalCapa = itemView.findViewById(R.id.animalCapa);
+            nomeMusica = itemView.findViewById(R.id.animalNome);
             tempo = itemView.findViewById(R.id.tempo);
 
             itemView.setOnClickListener(new View.OnClickListener() {

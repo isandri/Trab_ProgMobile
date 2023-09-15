@@ -12,162 +12,168 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
     <string name="initial_header">Escolha UMA das Funções</string>
-    <string name="gallery_button">Galeria de Imagens</string>
-    <string name="player_button">Music Player</string>
+    <string name="gallery_button">Imagens de pássaros</string>
+    <string name="player_button">Sons de animais</string>
 
-    <string-array name="sertanejos">
-        <item>Termina comigo antes</item>
-        <item>Abalo emocional</item>
-        <item>Vagabundo chora</item>
-        <item>Acabei de terminar</item>
-        <item>Bloqueado</item>
-        <item>Erro planejado</item>
-        <item>Ciclo vicioso</item>
-        <item>Insubstituível</item>
-        <item>Conselho bom</item>
-        <item>Não me arranha</item>
+    <string-array name="fazenda">
+
+        <item>Cabra</item>
+        <item>Cavalo</item>
+        <item>Galinha</item>
+        <item>Galo</item>
+        <item>Ovelha</item>
+        <item>Porco</item>
+        <item>Vaca</item>
     </string-array>
 
-    <string-array name="pagodes">
-        <item>Ele ou Eu</item>
-        <item>Pode Parar</item>
-        <item>Ninguém Merece Amar Sozinho</item>
-        <item>Saudade Na Terra</item>
-        <item>Só um Pagode</item>
-        <item>Me perdoa</item>
-        <item>Graveto</item>
-        <item>Falta Você</item>
-        <item>Vencedor</item>
-        <item>Você Não Sabe Voltar</item>
+    <string-array name="floresta">
+        <item>Alce</item>
+        <item>Grilo</item>
+        <item>Lobo</item>
+        <item>Raposa</item>
+        <item>Sapo</item>
     </string-array>
 
-    <string-array name="eletronicas">
-        <item>10:35</item>
-        <item>I´m Good</item>
-        <item>Where Are You Now</item>
-        <item>Bad Memories</item>
-        <item>Ferrari</item>
-        <item>Hot In It</item>
-        <item>Belly Dancer</item>
-        <item>What You Do To Me</item>
-        <item>Do It To It</item>
-        <item>The Motto</item>
+    <string-array name="selva">
+        <item>Cascavel</item>
+        <item>Crocodilo</item>
+        <item>Elefante</item>
+        <item>Leao</item>
+        <item>Leopardo</item>
+        <item>Tigre</item>
+    </string-array>
+
+
+    <string-array name="passaros">
+        <item>Andorinha</item>
+        <item>Arara Azul</item>
+        <item>Arara Vermelha</item>
+        <item>Boca-de-sapo</item>
+        <item>Canário</item>
+        <item>Corvo</item>
+        <item>Mariquita-de-asa-amarela</item>
+        <item>Pardal</item>
+        <item>Pica-pau</item>
+        <item>Rouxinol</item>
     </string-array>
 
     <string-array name="todos">
-        <item>Termina comigo antes</item>
-        <item>Abalo emocional</item>
-        <item>Vagabundo chora</item>
-        <item>Acabei de terminar</item>
-        <item>Bloqueado</item>
-        <item>Erro planejado</item>
-        <item>Ciclo vicioso</item>
-        <item>Insubstituível</item>
-        <item>Conselho bom</item>
-        <item>Não me arranha</item>
-        <item>Ele ou Eu</item>
-        <item>Pode Parar</item>
-        <item>Ninguém Merece Amar Sozinho</item>
-        <item>Saudade Na Terra</item>
-        <item>Só um Pagode</item>
-        <item>Me perdoa</item>
-        <item>Graveto</item>
-        <item>Falta Você</item>
-        <item>Vencedor</item>
-        <item>Você Não Sabe Voltar</item>
-        <item>10:35</item>
-        <item>I´m Good</item>
-        <item>Where Are You Now</item>
-        <item>Bad Memories</item>
-        <item>Ferrari</item>
-        <item>Hot In It</item>
-        <item>Belly Dancer</item>
-        <item>What You Do To Me</item>
-        <item>Do It To It</item>
-        <item>The Motto</item>
+
+        <item>Cabra</item>
+        <item>Cavalo</item>
+        <item>Galinha</item>
+        <item>Galo</item>
+        <item>Ovelha</item>
+        <item>Porco</item>
+        <item>Vaca</item>
+
+        <item>Alce</item>
+        <item>Grilo</item>
+        <item>Lobo</item>
+        <item>Raposa</item>
+        <item>Sapo</item>
+
+        <item>Cascavel</item>
+        <item>Crocodilo</item>
+        <item>Elefante</item>
+        <item>Leao</item>
+        <item>Leopardo</item>
+        <item>Tigre</item>
+
+        <item>Andorinha</item>
+        <item>Arara Azul</item>
+        <item>Arara Vermelha</item>
+        <item>Boca-de-sapo</item>
+        <item>Canário</item>
+        <item>Corvo</item>
+        <item>Mariquita-de-asa-amarela</item>
+        <item>Pardal</item>
+        <item>Pica-pau</item>
+        <item>Rouxinol</item>
+
     </string-array>
 
-    <string-array name="duracao_sertanejo">
-        <item>3:16</item>
-        <item>2:45</item>
-        <item>2:43</item>
-        <item>3:50</item>
-        <item>2:55</item>
-        <item>2:46</item>
-        <item>3:06</item>
-        <item>3:34</item>
-        <item>3:30</item>
-        <item>2:49</item>
+    <string-array name="duracao_fazenda">
+
+        <item>0:04</item>
+        <item>0:04</item>
+        <item>0:06</item>
+        <item>0:02</item>
+        <item>0:09</item>
+        <item>0:08</item>
+        <item>0:02</item>
     </string-array>
 
-    <string-array name="duracao_pagodes">
-        <item>3:22</item>
-        <item>3:09</item>
-        <item>3:50</item>
-        <item>2:51</item>
-        <item>2:22</item>
-        <item>3:47</item>
-        <item>2:42</item>
-        <item>3:39</item>
-        <item>3:49</item>
-        <item>3:07</item>
+    <string-array name="duracao_floresta">
+        <item>0:11</item>
+        <item>0:29</item>
+        <item>0:08</item>
+        <item>0:02</item>
+        <item>0:11</item>
     </string-array>
 
-    <string-array name="duracao_eletronicas">
-        <item>2:53</item>
-        <item>2:55</item>
-        <item>2:28</item>
-        <item>2:32</item>
-        <item>3:05</item>
-        <item>2:10</item>
-        <item>2:35</item>
-        <item>3</item>
-        <item>3</item>
-        <item>3</item>
+    <string-array name="duracao_selva">
+        <item>0:05</item>
+        <item>0:09</item>
+        <item>0:05</item>
+        <item>0:07</item>
+        <item>0:07</item>
+        <item>0:07</item>
+    </string-array>
+
+    <string-array name="duracao_passaros">
+        <item>0:06</item>
+        <item>0:03</item>
+        <item>0:02</item>
+        <item>0:04</item>
+        <item>0:03</item>
+        <item>0:05</item>
+        <item>0:02</item>
+        <item>0:06</item>
+        <item>0:07</item>
+        <item>0:04</item>
     </string-array>
 
     <string-array name="duracao_todos">
-        <item>3:16</item>
-        <item>2:45</item>
-        <item>2:43</item>
-        <item>3:50</item>
-        <item>2:55</item>
-        <item>2:46</item>
-        <item>3:06</item>
-        <item>3:34</item>
-        <item>3:30</item>
-        <item>2:49</item>
+        <item>0:17</item>
+        <item>0:04</item>
+        <item>0:04</item>
+        <item>0:06</item>
+        <item>0:02</item>
+        <item>0:09</item>
+        <item>0:08</item>
+        <item>0:02</item>
 
-        <!--paodes abaixo-->
-        <item>3:22</item>
-        <item>3:09</item>
-        <item>3:50</item>
-        <item>2:51</item>
-        <item>2:22</item>
-        <item>3:47</item>
-        <item>2:42</item>
-        <item>3:39</item>
-        <item>3:49</item>
-        <item>3:07</item>
+        <item>0:11</item>
+        <item>0:29</item>
+        <item>0:08</item>
+        <item>0:02</item>
+        <item>0:11</item>
+        <item>0:05</item>
+        <item>0:09</item>
+        <item>0:05</item>
+        <item>0:07</item>
+        <item>0:07</item>
+        <item>0:07</item>
 
-        <!--eletronicas abaixo-->
-        <item>3:22</item>
-        <item>3:09</item>
-        <item>3:50</item>
-        <item>2:51</item>
-        <item>2:22</item>
-        <item>3:47</item>
-        <item>2:42</item>
-        <item>3:39</item>
-        <item>3:49</item>
-        <item>3:07</item>
+        <item>0:06</item>
+        <item>0:03</item>
+        <item>0:02</item>
+        <item>0:04</item>
+        <item>0:03</item>
+        <item>0:05</item>
+        <item>0:02</item>
+        <item>0:06</item>
+        <item>0:07</item>
+        <item>0:04</item>
     </string-array>
 
     <string-array name="tipos">
         <item>Todos</item>
-        <item>Sertanejo</item>
-        <item>Eletronica</item>
-        <item>Pagode</item>
+        <item>Animais de Fazenda</item>
+        <item>Animais da Selva</item>
+        <item>Animais da Floresta</item>
+        <item>Animais do Ar</item>
     </string-array>
 
 </resources>

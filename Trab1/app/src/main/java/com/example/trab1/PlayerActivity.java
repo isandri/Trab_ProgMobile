@@ -39,7 +39,7 @@ public class PlayerActivity extends AppCompatActivity {
         Intent intent = getIntent();
         play = findViewById(R.id.playButton);
         nome = findViewById(R.id.nome);
-        capa = findViewById(R.id.capa);
+        capa = findViewById(R.id.animalCapa);
         musica = intent.getIntExtra("som", 0);
 
         nome.setText(intent.getStringExtra("nome"));

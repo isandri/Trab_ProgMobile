@@ -37,38 +37,17 @@ public class GalleryFragment extends Fragment {
 
         ArrayList<GalleryModel> galleryModelArrayList = new ArrayList<>();
 
-        galleryModelArrayList.add(new GalleryModel(R.drawable.e1));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.e2));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.e3));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.e4));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.e5));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.e6));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.e7));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.e8));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.e9));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.e10));
+        galleryModelArrayList.add(new GalleryModel(R.drawable.p_andorinha));
+        galleryModelArrayList.add(new GalleryModel(R.drawable.p_canario));
+        galleryModelArrayList.add(new GalleryModel(R.drawable.p_corvo));
+        galleryModelArrayList.add(new GalleryModel(R.drawable.p_arara_azul));
+        galleryModelArrayList.add(new GalleryModel(R.drawable.p_pardal));
+        galleryModelArrayList.add(new GalleryModel(R.drawable.p_arara_vermelha));
+        galleryModelArrayList.add(new GalleryModel(R.drawable.p_boca_de_sapo));
+        galleryModelArrayList.add(new GalleryModel(R.drawable.p_mariquita_de_asa_amarela));
+        galleryModelArrayList.add(new GalleryModel(R.drawable.p_pica_pau));
+        galleryModelArrayList.add(new GalleryModel(R.drawable.p_rouxinol));
 
-        galleryModelArrayList.add(new GalleryModel(R.drawable.s1));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.s2));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.s3));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.s4));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.s5));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.s6));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.s7));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.s8));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.s9));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.s10));
-
-        galleryModelArrayList.add(new GalleryModel(R.drawable.p1));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.p2));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.p3));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.p4));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.p5));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.p6));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.p7));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.p8));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.p9));
-        galleryModelArrayList.add(new GalleryModel(R.drawable.p10));
 
         GalleryAdapter adapter = new GalleryAdapter(view.getContext(), galleryModelArrayList);
 

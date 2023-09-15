@@ -7,13 +7,13 @@ public class Musics implements Serializable {
     String nome;
 
     String tempo;
-    int capaMusica;
+    int animalCapa;
 
     int somMusica;
 
-    public Musics(String nome, String tempo, int capaMusica, int somMusica) {
+    public Musics(String nome, String tempo, int animalCapa, int somMusica) {
         this.nome = nome;
-        this.capaMusica = capaMusica;
+        this.animalCapa = animalCapa;
         this.tempo = tempo;
         this.somMusica = somMusica;
     }
